@@ -1,0 +1,59 @@
+:root {
+  /* Native San Francisco on Apple platforms; Segoe UI Variable on Windows. */
+  --ink: #111522;
+  --ink-2: #41475a;
+  --muted: #737b91;
+  --line: #cfd5e2;
+  --line-strong: #aeb7ca;
+  --canvas: #edf1f3;
+  --paper: #f8f8f4;
+  --white: #ffffff;
+  --night: #10384b;
+  --cobalt: #164863;
+  --cobalt-soft: #e0ebf0;
+  --signal: #e49818;
+  --signal-soft: #fff0d1;
+  --acid: #f8b123;
+  --gold: #c78418;
+  --green: #16816d;
+  --red: #d4473b;
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 22px;
+  --shadow: 0 10px 35px rgba(25, 31, 55, 0.08);
+  --font-sans:
+    -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Segoe UI Variable',
+    'Segoe UI', sans-serif;
+  --font-display:
+    -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', 'Segoe UI Variable',
+    'Segoe UI', sans-serif;
+  --font-mono: 'SFMono-Regular', ui-monospace, 'Cascadia Code', Consolas, monospace;
+  --font: var(--font-sans);
+  --mono: var(--font-mono);
+  --font-size-min: 12.5px;
+  --font-size-10: 13.13px;
+  --font-size-11: 14.44px;
+  --font-size-12: 15.75px;
+  --font-size-13: 17.06px;
+  --font-size-14: 18.38px;
+  --font-size-15: 19.69px;
+  --font-size-16: 21px;
+  --font-size-17: 22.31px;
+  --font-size-18: 23.63px;
+  --font-size-20: 26.25px;
+  --font-size-22: 28.88px;
+  --font-size-27: 35.44px;
+  --font-size-28: 36.75px;
+  --font-size-30: 39.38px;
+  --font-size-32: 42px;
+  --font-size-34: 44.63px;
+  --font-size-36: 47.25px;
+  --font-size-38: 49.88px;
+  --font-size-42: 55.13px;
+  --font-size-54: 70.88px;
+  --font-size-58: 76.13px;
+  --font-size-62: 81.38px;
+  --font-size-76: 99.75px;
+  --font-size-104: 136.5px;
+  --font-size-690: 905.63px;
+}
