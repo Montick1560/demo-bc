@@ -1,0 +1,1 @@
+import{c as e,s as t}from"./useServices-CmCTolI-.js";var n=t();function r({loading:t,error:r}){let{t:i}=e();return t?(0,n.jsx)(`p`,{className:`async-state`,role:`status`,children:i(`common.loading`)}):r?(0,n.jsx)(`p`,{className:`async-state`,role:`alert`,children:r}):null}export{r as t};
